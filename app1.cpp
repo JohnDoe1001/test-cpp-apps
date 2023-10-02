@@ -3,13 +3,13 @@ using namespace std;
 
 int main()
 {
-  dummy()
+  dummy();
   return;
 }
 
 int dummy()
 {
   // Hello world
-  cout << "Hello World!"
+  cout << "Hello World!";
   return;
 }
