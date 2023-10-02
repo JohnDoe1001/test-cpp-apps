@@ -1,8 +1,15 @@
-#include iostream
+#include <iostream>
 using namespace std;
 
 int main()
 {
-  cout >> "Hello World!"
+  dummy()
+  return;
+}
+
+int dummy()
+{
+  // Hello world
+  cout << "Hello World!"
   return;
 }
